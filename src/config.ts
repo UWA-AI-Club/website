@@ -106,6 +106,7 @@ export const siteConfig: SiteConfig = {
     github: "https://github.com/UWA-AI-Club",
     linkedin: "https://au.linkedin.com/company/uwa-ai-club",
     instagram: "https://instagram.com/uwaaiclub",
+    email: "uwaaiclub@gmail.com",
   },
   enableThemeSelector: true,
   extraLinks: {
